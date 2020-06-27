@@ -1,0 +1,2 @@
+#define NJORD_API __declspec(dllexport)
+#define NJORD_API __declspec(dllimport)
