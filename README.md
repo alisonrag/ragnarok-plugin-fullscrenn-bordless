@@ -1,5 +1,6 @@
 # Njord
-ragnarok online plugin to fullscreen bordless
+- ragnarok online plugin to fullscreen bordless.
+- based in https://github.com/Normynator/PaintItBlack by @Normynator
 
 ## Requeriments
   - Visual Studio 2019 (C++ support)
